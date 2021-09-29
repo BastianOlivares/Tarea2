@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.mensaje {
+  color: white;
+}
+
+.container-fluid, .mensaje {
+  background: #098ada;
+}
+
+form {
+  background: white;
+}
+
+li {
+  list-style: none;
+}
+/*# sourceMappingURL=estilos.css.map */
